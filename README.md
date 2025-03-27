@@ -1,2 +1,2 @@
-# -zhangzan-.github.io
-Personal blog.
+# Tiny Serveer
+It's a community for commit news.
